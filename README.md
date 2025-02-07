@@ -29,7 +29,7 @@ The dataset contains various attributes that influence the price of used cars. S
 
 1. Clone the repository
 
-   - git clone https://github.com/rama7530/used-car-price-prediction.git
+   - git clone [https://github.com/rama7530/used-car-price-prediction](https://github.com/rama7530/Used_Car_Price_Prediction)
 
 2. Install the required dependencies
 
